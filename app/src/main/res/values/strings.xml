@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Agendex</string>
+    <string name="cadastro_Paciente">Cadastrar Paciente</string>
+    <string name="cadastro_Medico">Cadastrar Medico</string>
+
+    <string name="hint_nome">Informe o Nome</string>
+    <string name="hint_nomesocial">Informe o Nome Social</string>
+    <string name="hint_cpf">Informe o CPF</string>
+    <string name="hint_rg">Informe o RG</string>
+    <string name="hint_telefone">Informe o telefone</string>
+    <string name="hint_orgaoExpeditor">Informe o Orgao expeditor</string>
+    <string name="hint_sexo">Informe o Sexo</string>
+    <string name="hint_dataNasc">Informe a data de nascimento</string>
+    <string name="hint_Email">Informe o Email</string>
+    <string name="hint_Especialidade">Informe s especialidade</string>
+    <string name="hint_CRM">Informe o CRM</string>
+    <string name="hint_Endereco">Informe o Endereco</string>
+
+</resources>
